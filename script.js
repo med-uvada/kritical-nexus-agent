@@ -5,7 +5,7 @@
   'use strict';
 
   // Replace YOUR-USERNAME with your GitHub handle (also in index.html).
-  var REPO_URL = 'https://github.com/YOUR-USERNAME/kritical-nexus-agent';
+  var REPO_URL = 'https://github.com/med-uvada/kritical-nexus-agent';
 
   var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   var $ = function (sel, root) { return (root || document).querySelector(sel); };
